@@ -1,0 +1,11 @@
+# resositories2
+
+Ce dépôt contient un script Bash nommé `exoEN(1).sh`.
+
+## Objectif
+Ce script exécute [mes activités en bioinformatique].
+
+## Utilisation
+```bash
+chmod +x exoEN(1).sh
+./exoEN(1).sh
